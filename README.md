@@ -1,6 +1,6 @@
 - 👋 Hey there, This is Jeacson_Snake, who is a university student at this time.
-- 🌱 I am willing to be a web engineer, therefore currently I'm learning about the front-end basics of VUE.
-- 🎨 I'm also learning how to program by JAVA & Arduino-C in my college course.
+- 🌱 I am willing to be a web engineer, currently I'm struggling with VUE2.
+- 🎨 I'm also learning how to program by JAVA & C++ in my college course.
 - 📫 You can make a contact with me at Jeacson_Snake@outlook.com
 
 <!---
